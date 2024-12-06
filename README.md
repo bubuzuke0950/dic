@@ -1,5 +1,6 @@
 # dic
-
+## これは何
+vueの練習で作ったやつ
 ## Build Setup
 
 ```bash
